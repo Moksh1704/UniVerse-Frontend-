@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "UniVerse",
+    "slug": "universe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1B2B5E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.andhrauniversity.universe"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#1B2B5E"
+      },
+      "package": "com.andhrauniversity.universe"
+    },
+    "plugins": [
+      "expo-document-picker",
+      "expo-av"
+    ]
+  }
+}

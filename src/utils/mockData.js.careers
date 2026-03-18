@@ -1,0 +1,51 @@
+  {
+    id: 6,
+    title: 'Cybersecurity Analyst',
+    domain: 'Cybersecurity',
+    description:
+      'Cybersecurity Analysts protect organisations from cyber threats by monitoring networks, analysing vulnerabilities, and responding to security incidents. They implement security policies, conduct penetration testing, and ensure compliance with data protection regulations.',
+    requirements:
+      'Degree in CS, IT, or Information Security. Knowledge of networking fundamentals (TCP/IP, DNS, firewalls). Familiarity with SIEM tools and ethical hacking concepts. Certifications like CEH or CompTIA Security+ are a plus.',
+    tech_stack: ['Kali Linux', 'Wireshark', 'Metasploit', 'Nmap', 'Splunk', 'Burp Suite', 'Python', 'Snort', 'Nessus'],
+    salary_min: 500000,
+    salary_max: 2200000,
+    market_demand: 'high',
+    future_scope:
+      'With rising cybercrime, demand for security professionals is outpacing supply globally. Career paths include Penetration Tester, Security Architect, CISO, or independent consultant.',
+    benefits:
+      'One of the most crisis-proof careers, government and defence opportunities, remote work options, high bonuses for certified experts.',
+  },
+  {
+    id: 7,
+    title: 'Product Manager',
+    domain: 'Non-Tech',
+    description:
+      'Product Managers (PMs) define the vision, strategy, and roadmap for digital products. They act as the bridge between engineering, design, and business teams — gathering user requirements, prioritising features, and ensuring products ship on time and meet customer needs.',
+    requirements:
+      'Degree in any field (MBA preferred for senior roles). Strong analytical and communication skills. Understanding of product lifecycle and agile methodologies. No deep coding required, but technical fluency is valued.',
+    tech_stack: ['Jira', 'Confluence', 'Figma', 'Mixpanel', 'Google Analytics', 'Notion', 'Miro', 'Excel', 'SQL (basic)'],
+    salary_min: 800000,
+    salary_max: 3000000,
+    market_demand: 'high',
+    future_scope:
+      'PM roles scale from Associate PM to Senior PM, Group PM, and ultimately VP of Product or CPO. Strong PMs at top companies command top-tier compensation and equity.',
+    benefits:
+      'High impact on product direction, cross-functional exposure, path to leadership, great compensation at product-led companies.',
+  },
+  {
+    id: 8,
+    title: 'UI/UX Designer',
+    domain: 'Non-Tech',
+    description:
+      'UI/UX Designers create intuitive, accessible, and visually appealing digital experiences. They conduct user research, build wireframes and prototypes, and collaborate closely with product and engineering teams to bring designs to life across web and mobile platforms.',
+    requirements:
+      'Degree in Design, HCI, or CS. Proficiency in design tools like Figma or Adobe XD. Portfolio demonstrating real-world projects. Understanding of user-centred design principles and accessibility standards.',
+    tech_stack: ['Figma', 'Adobe XD', 'Sketch', 'InVision', 'Zeplin', 'Principle', 'Maze', 'Hotjar', 'Framer'],
+    salary_min: 400000,
+    salary_max: 1800000,
+    market_demand: 'medium',
+    future_scope:
+      'Senior designers move into Design Lead, Head of Design, or Chief Design Officer roles. Specialisation in motion design, 3D/AR/VR design, or design systems is increasingly valued.',
+    benefits:
+      'Creative and technical blend, portfolio-driven hiring, remote-friendly, rapidly growing demand in product companies and agencies.',
+  },
